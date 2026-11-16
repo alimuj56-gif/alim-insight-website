@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://alimuj56-gif.github.io/alim-insight-website/sitemap.xml
